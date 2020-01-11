@@ -1,0 +1,5 @@
+output/
+lib/
+__pycache__/
+cache/
+.doit.db

@@ -1,0 +1,11 @@
+@font-face { 
+	font-family: "Coolvetica"; 
+	src: url("../fonts/coolvetica.ttf"); 
+}
+
+body {
+    font-family: "Coolvetica";
+    color: #FeFeFe;
+	background: #C01A2C;
+}
+
