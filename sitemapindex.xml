@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <sitemap>
+  <loc>https://hackmake.de/categories/news.xml</loc>
+  <lastmod>2020-01-11T21:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hackmake.de/rss.xml</loc>
+  <lastmod>2020-01-11T21:24:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://hackmake.de/sitemap.xml</loc>
+  <lastmod>2020-01-11T21:24:00Z</lastmod>
+ </sitemap>
+</sitemapindex>
