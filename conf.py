@@ -160,7 +160,8 @@ NAVIGATION_ALT_LINKS = {
     )
 }
 
-FILES_FOLDERS = {'files':'files'}
+
+#FILES_FOLDERS = {'files':'files'}
 
 # Name of the theme to use.
 
