@@ -1,7 +1,0 @@
-output/
-lib/
-__pycache__/
-cache/
-.doit.db
-id_rsa
-id_rsa.pub

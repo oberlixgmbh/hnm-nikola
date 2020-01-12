@@ -1,0 +1,4 @@
+Sitemap: https://hackmake.de/sitemapindex.xml
+
+User-Agent: *
+Host: hackmake.de
