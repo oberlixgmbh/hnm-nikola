@@ -17,7 +17,7 @@ before_install:
 - git fetch origin gh-pages
 install:
 - pip install -U --upgrade-strategy=eager 'Nikola[extras]'
-- nikola plugin -i gallery-directive
+- nikola plugin -i gallery_directive
 script:
 - nikola build && nikola github_deploy -m 'Nikola auto deploy [ci skip]'
 notifications:
