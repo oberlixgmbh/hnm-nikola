@@ -18,6 +18,7 @@ before_install:
 install:
 - pip install -U --upgrade-strategy=eager 'Nikola[extras]'
 - nikola plugin -i gallery_directive
+- nikola theme -n bootstrap4-HnM --parent bootstrap4 --engine mako
 script:
 - nikola build && nikola github_deploy -m 'Nikola auto deploy [ci skip]'
 notifications:
