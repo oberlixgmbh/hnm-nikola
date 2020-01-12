@@ -15,9 +15,9 @@ Dazu schickt einfach euren github-Benutzernamen an ian. (Zum Beispiel, indem Ihr
 ## Wie kann ich lokal ändern oder neue Seiten hinzufügen?
 
 * Wenn Ihr Änderungen am Design vornehmen wollt oder Neuigkeiten oder Seiten hinzufügen wollt, installiert ihr am besten Nikola lokal.
-* Anleitung unter Linux:
+* Installationsanleitung unter Linux:
   1. python3 verwenden/ggf. installieren: `sudo apt install python3-pip`
-  1. virtualenv installieren: `pip install virtualenv` -- bitte unbedingt darauf achten, dass ihr python3 verwendet. Ggf. dazu `pip3` anstell von `pip` eingeben. 
+  1. virtualenv installieren: `pip install virtualenv` -- **bitte unbedingt darauf achten, dass ihr python3 verwendet**. Ggf. dazu `pip3` anstelle von `pip` eingeben. 
   1. Erstellt ein neues leere Unterverzeichnis und wechselt dort hin. (Zum Beispiel `mkdir nikola && cd nikola`)
   1. Erstellt ein virtualenv in diesem Verzeichnis: `virtualenv .`
   1. Aktiviert das virtualenv: `source bin/activate`
@@ -28,22 +28,21 @@ Dazu schickt einfach euren github-Benutzernamen an ian. (Zum Beispiel, indem Ihr
   1. Wechselt in eurer nikola-virtualenv-Verzeichnis
   1. Aktiviert das virtualenv: `source bin/activate`
   1. Wechselt ins Unterverzeichnis: `cd hnm-nikola`
-  1. Dort könnt ihr nun die diversen Dateien nach Euren Wünschen anpassen
+  1. Dort könnt ihr nun die diversen Dateien nach Euren Wünschen und mit einem Editor Eurer Wahl (vim, VS Code, kate, ...) anpassen
   1. Zum neuerstellen der Seiten: `nikola build`
   1. Zum lokalen Anschauen der Seiten: `nikola serve -b`
-  1. Zum deployen auf dem Testserver: `nikola github_deploy`
-  1. Zum speichern der Änderungen auf github:
-     1. `git add .`
-     1. `git commit`
-     1. `git push`
-   
-  
+  1. Zum deployen der erstellten Webseite auf dem Testserver: `nikola github_deploy`
+  1. Zum speichern der Änderungen an den Sourcen auf github:
+     1. Ggf. Auflisten der geänderten Dateien mit `git status`
+     1. Alle geänderten Dateien zum comitten vormerken: `git add .`
+     1. Ggf. Anzeigen der Änderungen mit `git diff`
+     1. Änderungen comitten: `git commit -m "<Änderungsbeschreibung>"`
+     1. Den Commit auch auf dem remote-Server (=github) speichern: `git push`
 
 
 ## Verbesserungsvorschläge/Änderungswünsche
 
-Verbesserungsvorschläge oder Änderungswünsche meldet ihr am besten einfach hier als "New Issue" an.
-
+Verbesserungsvorschläge oder Änderungswünsche meldet Ihr am besten einfach hier als "New Issue" an.
 
 ## Technische Details
 

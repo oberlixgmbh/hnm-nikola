@@ -9,5 +9,10 @@ body {
     color: #FeFeFe;
 }
 
+a, .u-url  {
+	color: #b8d4db;
+}
 
-
+a:hover {
+	color: #FeFeFe;
+}
