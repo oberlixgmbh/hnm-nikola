@@ -1,4 +1,4 @@
-# hnm-nikola
+# hnm-nikola [![Build Status](https://travis-ci.org/fablabnbg/hnm-nikola.svg?branch=master)](https://travis-ci.org/fablabnbg/hnm-nikola)
 Nikola Sourcen der Homepage der Hack &amp; Make 2020
 
 
