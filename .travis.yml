@@ -1,0 +1,26 @@
+language: python
+cache: apt
+sudo: false
+python:
+- 3.6
+before_install:
+- openssl aes-256-cbc -K $encrypted_7455522539dc_key -iv $encrypted_7455522539dc_iv
+  -in id_rsa.enc -out id_rsa -d
+  -in id_rsa.enc -out id_rsa -d
+- pip install -U --upgrade-strategy=eager pip setuptools wheel
+- echo -e 'Host github.com\n    StrictHostKeyChecking no' >> ~/.ssh/config
+- eval "$(ssh-agent -s)"
+- chmod 600 id_rsa
+- ssh-add id_rsa
+- git remote rm origin
+- git remote add origin git@github.com:fablabnbg/hnm-nikola.git
+- git fetch origin gh-pages
+install:
+- pip install -U --upgrade-strategy=eager 'Nikola[extras]'
+- nikola plugin -i ical
+script:
+- nikola build && nikola github_deploy -m 'Nikola auto deploy [ci skip]'
+notifications:
+  email:
+    on_success: change
+    on_failure: always
