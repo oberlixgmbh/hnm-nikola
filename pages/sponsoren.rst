@@ -7,4 +7,13 @@
 .. description: 
 .. type: text
 
-Schreibe hier deinen Seiteninhalt hin.
+Eine Messe wie die Hack & Make ist ohne Unterstützung nicht möglich.
+
+**Wollen Sie die Hack und Make unterstützen?**
+
+Dafür gibt es drei Sponsor-Stufen: *Platin*, *Gold* und *Silber*.
+
+Darin enthalten sind Nennung ihres Namens im Zusammenhang mit der Hack and Make,
+sowie ein Standplatz auf der Messe - jeweils entsprechend der Sponsor-Stufe.
+
+Schreiben Sie uns unter sponsor2020@hackmake.de und wir informieren Sie über die Details.
