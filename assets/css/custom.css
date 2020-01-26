@@ -5,17 +5,30 @@
 
 body {
 	background: #C01A2C !important;
-    font-family: "Coolvetica";
+    
     color: #FeFeFe;
+}
+
+
+a, .u-url  {
+	color: rgb(218, 218, 218);	/* G20 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Coolvetica";
+	/* color: #707070;			*/ /* G70 */ 
+	color: #909090;
+}
+
+h1 {
+	color: rgb(33, 154, 156) /* PETROL */
 }
 
 p {
 	font-family: "helvetica";
 }
 
-a, .u-url  {
-	color: #b8d4db;
-}
+
 
 a:hover {
 	color: #FeFeFe;
