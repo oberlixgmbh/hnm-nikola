@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg5048"
-   viewBox="0 0 105.04375 105"
-   height="29.633333mm"
-   width="29.645681mm"
-   inkscape:version="0.91 r13725"
+   viewBox="0 0 133.125 105"
+   height="112"
+   width="142"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="hackandmake_shape.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -23,21 +23,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1022"
+     inkscape:window-width="3840"
+     inkscape:window-height="2095"
      id="namedview4188"
      showgrid="false"
-     inkscape:zoom="0.79250281"
-     inkscape:cx="164.21197"
-     inkscape:cy="-89.176032"
-     inkscape:window-x="0"
+     inkscape:zoom="4.4830729"
+     inkscape:cx="25.405455"
+     inkscape:cy="35.552984"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5048"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     units="px" />
   <defs
      id="defs5050" />
   <metadata
@@ -54,14 +55,16 @@
   </metadata>
   <g
      id="layer1"
-     transform="translate(-207.83527,-332.00507)">
+     transform="translate(-207.83527,-332.00507)"
+     style="stroke:none">
     <g
        transform="matrix(1.25,0,0,-1.25,207.83527,437.00507)"
-       id="g4474">
+       id="g4474"
+       style="stroke:none">
       <path
          id="path4476"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-         d="m 0,0 0,84 28.012,0 0,-28 28.01,0 0.001,28 28.012,0 0,-84 -28.012,0 0,28.003 L 42.018,18.475 28.012,28.003 28.012,0 0,0 Z"
+         d="M 0,0 V 84 H 28.012 V 56 h 28.01 l 0.001,28 H 84.035 V 0 H 56.023 V 28.003 L 42.018,18.475 28.012,28.003 V 0 Z"
          inkscape:connector-curvature="0" />
     </g>
   </g>

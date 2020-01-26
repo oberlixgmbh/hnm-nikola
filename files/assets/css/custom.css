@@ -9,6 +9,10 @@ body {
     color: #FeFeFe;
 }
 
+p {
+	font-family: "helvetica";
+}
+
 a, .u-url  {
 	color: #b8d4db;
 }
