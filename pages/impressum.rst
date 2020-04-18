@@ -8,7 +8,7 @@
 .. type: text
 
 
-Die Hack und Make ist eine Veranstaltung der `faboratory gGmbH`_.
+Die Hack & Make ist eine Veranstaltung der `faboratory gGmbH`_.
 
 Die faboratory gGmbH ist eine Tochter des `Fab Lab Region Nürnberg e. V.`_
 
