@@ -86,8 +86,6 @@ Auf- und Abbau
 * Parken unmittelbar an der Halle nur für Auf- und Abbau gegen Kaution.
 
 
-
-
 .. Links
 
 .. _Sponsoren: link://slug/sponsoren
