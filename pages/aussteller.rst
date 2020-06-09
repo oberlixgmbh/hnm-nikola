@@ -38,7 +38,7 @@ Preise
 
 Wir teilen Aussteller in vier Kategorien ein und es fallen folgende Gebühren für einen Stand an: 
 
-**(Preise Stand 2019 - noch nicht bestätigt für 2020!)**
+**(Preise Stand 2019 - für 2020 noch nicht bestätigt!)**
 
 
 Non-Profit
