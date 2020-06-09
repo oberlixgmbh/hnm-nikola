@@ -21,7 +21,7 @@ Einen Eindruck davon gibt es auf http://review.hackmake.de zu sehen.
 
 2018 wechselte die Hack & Make in die Messe Nürnberg - und findet dort parallel zu den Publikumstagen der Erfindermesse iENA
 in der in 2018 neu eröffneten Halle 3C statt.
-Damit findet die HnM auch parallel zum letzten Wochenende der consumenta statt.
+Damit findet die HnM auch parallel zum letzten Wochenende der Consumenta statt.
 
 
 Eindrücke 2019
