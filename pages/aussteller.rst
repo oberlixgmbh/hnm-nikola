@@ -59,7 +59,7 @@ Start-up
 ~~~~~~~~~~
 
 * 300€ (zzgl. 19% MwSt)
-* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2019) und mit weniger als 10 Mitarbeiter
+* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2019) und mit weniger als 10 Mitarbeitern
 
 Commercial
 ~~~~~~~~~~~
@@ -74,7 +74,7 @@ Aktionsflächen
 
 Vorrausichtlich wird es wieder Aktionsflächen geben, die von allen Teilnehmern genutzt werden können, wenn sie zum Programm passen.
 
-Beispielsweise gab es RC-Flächen für ferngesteuerte Fahrzeuge. Wenn Ihr Ideen oder Vorschläge habt, schreibt uns!
+Beispielsweise gab es bereits RC-Flächen für ferngesteuerte Fahrzeuge. Wenn Ihr Ideen oder Vorschläge habt, schreibt uns!
 
 
 
