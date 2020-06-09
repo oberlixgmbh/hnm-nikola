@@ -11,7 +11,7 @@
 Save the date!
 ===============
 
-Samstag, 31.10.2020 und Sonntag, 1.11.2020 - Messe Nürnberg, Halle 3C
+Samstag, 31.10.2020 und Sonntag, 01.11.2020 - Messe Nürnberg, Halle 3C
 
 
 Neuigkeiten
