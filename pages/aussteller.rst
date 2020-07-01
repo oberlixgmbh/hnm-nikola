@@ -14,11 +14,9 @@ Save the date!
 
 Samstag, 31.10.2020 und Sonntag, 01.11.2020 in der Messe Nürnberg, Halle 3C.
 
-
 **Trotz "Corona" gehen die Planungen bei uns weiter!**
 
-**Nähere Informationen folgen demnächst.**
-
+Die parallel stattfindende Consumenta wird auch dieses Jahr stattfinden - auf der Webseite der Consumenta__ finden sich Informationen über das Hygienekonzept.
 
 Mitmachen
 -----------
@@ -89,5 +87,5 @@ Auf- und Abbau
 .. Links
 
 .. _Sponsoren: link://slug/sponsoren
-
+.. _Consumenta: https://www.consumenta.de/news/detail/vorbereitungen-fuer-den-messeherbst-das-erwartet-aussteller-und-besucher-auf-der-consumenta-2020/
 
