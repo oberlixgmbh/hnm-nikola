@@ -16,7 +16,7 @@ Samstag, 31.10.2020 und Sonntag, 01.11.2020 in der Messe Nürnberg, Halle 3C.
 
 **Trotz "Corona" gehen die Planungen bei uns weiter!**
 
-Die parallel stattfindende Consumenta wird auch dieses Jahr stattfinden - auf der Webseite der Consumenta__ finden sich Informationen über das Hygienekonzept.
+Die parallel stattfindende Consumenta wird auch dieses Jahr stattfinden - auf der Webseite der Consumenta_ finden sich Informationen über das Hygienekonzept.
 
 Mitmachen
 -----------
@@ -36,9 +36,6 @@ Preise
 
 Wir teilen Aussteller in vier Kategorien ein und es fallen folgende Gebühren für einen Stand an: 
 
-**(Preise Stand 2019 - für 2020 noch nicht bestätigt!)**
-
-
 Non-Profit
 ~~~~~~~~~~
 
@@ -49,20 +46,20 @@ Non-Profit
 NP Sale
 ~~~~~~~~
 
-* 60€ (inkl. 19% MwSt)
+* 59€ (inkl. 16% MwSt)
 * für Einzelpersonen, Bildungseinrichtungen, gemeinnützige Organisationen. Mit Verkauf!
 
 
 Start-up
 ~~~~~~~~~~
 
-* 300€ (zzgl. 19% MwSt)
-* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2019) und mit weniger als 10 Mitarbeitern
+* 300€ (zzgl. 16% MwSt)
+* für Unternehmen, jünger als drei Jahre (Stichtag 01.01.2020) und mit weniger als 10 Mitarbeitern
 
 Commercial
 ~~~~~~~~~~~
 
-* 600€ (zzgl. 19% MwSt)
+* 600€ (zzgl. 16% MwSt)
 * für Unternehmen allgemein
 * für Sponsoren ist ein größerer Stand im Sponsoring-Betrag enthalten. Siehe Sponsoren_.
 
