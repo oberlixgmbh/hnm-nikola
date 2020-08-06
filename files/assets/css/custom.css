@@ -27,9 +27,18 @@ h1 {
 p {
 	font-family: "helvetica";
 }
-
-
-
+.page-header a {
+  	background: rgb(192,26,44);
+ 	background: linear-gradient(110deg, rgba(192,26,44,1) 30%, rgba(52,58,64,1) 30%);
+}
+.footer {
+ 	position: absolute;
+ 	bottom: 0;
+  	width: 100%;
+  	/* Set the fixed height of the footer here */
+  	height: 60px;
+  	background-color: #f5f5f5;
+}
 a:hover {
 	color: #FeFeFe;
 }
