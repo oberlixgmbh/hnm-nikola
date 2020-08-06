@@ -20,3 +20,6 @@ Neuigkeiten
 .. post-list::
    :stop: 5
    :tags: news
+   
+Hier fehlt ein Bild
+===================
