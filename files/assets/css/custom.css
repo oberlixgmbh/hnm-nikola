@@ -4,31 +4,43 @@
 }
 
 body {
-	background: #C01A2C !important;
+	background: rgb(52,58,64);
+    background:linear-gradient(90deg, rgba(52,58,64,1) 15%, rgba(192,26,44,1) 15%, rgba(192,26,44,1) 20%, rgba(255,255,255,1) 20%, rgba(255,255,255,1) 80%, rgba(52,58,64,1) 80%);
     
-    color: #FeFeFe;
 }
 
 
 a, .u-url  {
-	color: rgb(218, 218, 218);	/* G20 */
+	color: #c01a2c
 }
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Coolvetica";
 	/* color: #707070;			*/ /* G70 */ 
-	color: #909090;
+	color: #343a40;
 }
 
 h1 {
-	color: rgb(33, 154, 156) /* PETROL */
+/*color: rgb(33, 154, 156) /* PETROL */
+	color: #c01a2c	
 }
 
 p {
 	font-family: "helvetica";
 }
 
-
+.page-header a {
+  	background: rgb(192,26,44);
+ 	background: linear-gradient(110deg, rgba(192,26,44,1) 30%, rgba(52,58,64,1) 30%);
+}
+.footer {
+ 	position: absolute;
+ 	bottom: 0;
+  	width: 100%;
+  	/* Set the fixed height of the footer here */
+  	height: 60px;
+  	background-color: #f5f5f5;
+}
 
 a:hover {
 	color: #FeFeFe;
