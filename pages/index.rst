@@ -23,3 +23,5 @@ Neuigkeiten
    
 Hier fehlt ein Bild
 ===================
+.. image:: /files/assets/img/Welcome_withText.png
+:hight:450
